@@ -91,6 +91,3 @@ Model performance may vary based on the dataset used.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements, bug fixes, or new features.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
